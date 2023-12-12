@@ -141,7 +141,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="lmao.jpg" />
+    <Content Include="getty_899906832_386271-fotor-20231212222314.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
